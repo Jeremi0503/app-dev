@@ -17,7 +17,7 @@ Praybeyt Benjamin is the first Filipino film to break the P300 million mark in t
 
 ## Images
 
-![This is an alt text.](https://tse4.mm.bing.net/th/id/OIP.yVSJHWh3ASA8TwKYYg76BAHaDt?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3 "This is a sample image.")
+![This is an alt text.]("https://philnews.ph/wp-content/uploads/2023/10/Praybeyt-Benjamin-3.jpg")
 
 ## Links
 
